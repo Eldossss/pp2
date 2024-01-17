@@ -1,0 +1,24 @@
+
+User@DESKTOP-KSB8UDS MINGW64 ~/Desktop/githowto/repositories/work (main)
+$ git push
+fatal: unable to access 'https://github.com/Eldossss/pp2/': Recv failure: Connection was reset
+
+User@DESKTOP-KSB8UDS MINGW64 ~/Desktop/githowto/repositories/work (main)
+$ git push -u origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (8/8), 827 bytes | 275.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Eldossss/pp2
+   c97ccf0..1787f38  main -> main
+branch 'main' set up to track 'origin/main'.
+
+User@DESKTOP-KSB8UDS MINGW64 ~/Desktop/githowto/repositories/work (main)
+$ ^C
+
+User@DESKTOP-KSB8UDS MINGW64 ~/Desktop/githowto/repositories/work (main)
+
+
+///In this part of the code  I've attached the github with the git repository ///
