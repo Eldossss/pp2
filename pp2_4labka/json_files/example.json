@@ -1,0 +1,28 @@
+{
+    "DN": [
+      {
+        "1-type": {
+          "DN-TYPE": "topology/pod-1/node-201/sys/phys-[eth1/33]",
+          "Description": null,
+          "Speed": "Inherit",
+          "MTU": 9150
+        }
+      },
+      {
+        "2-type": {
+          "DN-TYPE": "topology/pod-1/node-201/sys/phys-[eth1/34]",
+          "Description": null,
+          "Speed": "Inherit",
+          "MTU": 9150
+        }
+      },
+      {
+        "3-rd type": {
+          "DN-TYPE": "topology/pod-1/node-201/sys/phys-[eth1/35]",
+          "Description": null,
+          "Speed": "Inherit",
+          "MTU": 9150
+        }
+      }
+    ]
+  }
