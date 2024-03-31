@@ -1,0 +1,21 @@
+
+{
+    "acces" : [
+        "switchport mode acces",
+        "switch acces vlan",
+        "switch nonegotiate",
+        "spanning-tree portfast",
+        "spanning-tree bpduguard enable"
+        ],
+    "trunk" : [
+        "switchport trunk encapsulation dot1q",
+        "switchport mode trunk",
+        "switchport trunk native vlan 999",
+        "switch trunk trunk allowed vlan"
+        
+        ]
+    
+}
+    
+    
+    
